@@ -25,8 +25,6 @@ This repository is dedicated to documenting my journey of learning and mastering
 2. Create scalable and secure applications. 🔐
 3. Learn industry best practices for backend development. 🌟
 
-## 🗂️ Folder Structure
-
 
 ## 🚀 How to Use This Repository
 
